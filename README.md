@@ -25,4 +25,4 @@ Sitio web de una librería desarrollado como parte de la práctica
 - imagenes/
 
 ## Autor
-Hugo David Armijos Quirola
+Chavarria Matamoros Dayana 
